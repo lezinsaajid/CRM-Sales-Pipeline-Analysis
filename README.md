@@ -104,7 +104,8 @@ crm-sales-pipeline-analysis/
 
 ## 📷 Dashboard Preview
 
-> Add a screenshot of the completed Tableau dashboard here.
+<img width="1300" height="831" alt="Dashboard" src="https://github.com/user-attachments/assets/4db65676-2930-42d5-b42e-35a37cd8649b" />
+
 
 ---
 
