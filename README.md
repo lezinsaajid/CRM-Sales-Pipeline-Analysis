@@ -249,10 +249,26 @@ CRM-Sales-Pipeline-Analysis/
 │
 ├── docs/
 │   └── case-study.md
+│   └── dashboard-walkthrough.md
+│
+├── sql/
+│   ├── business_queries.sql
+│   └── insights.md
 │
 └── README.md
 ```
-
+CRM-Sales-Pipeline-Analysis/
+├── README.md
+├── dashboard/
+├── data/
+├── docs/
+│   ├── case-study.md
+│   └── dashboard-walkthrough.md
+├── screenshots/
+├── sql/
+│   ├── business_queries.sql
+│   └── insights.md
+└── LICENSE (optional)
 ---
 
 # Future Enhancements
